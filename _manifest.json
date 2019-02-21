@@ -1,7 +1,7 @@
 {
-    "name": "btopro",
-    "short_name": "btopro",
-    "description": "Crazy, abrasive, caring, dreaming the world into existence we need, not the one we have.",
+    "name": "{{ title }}",
+    "short_name": "{{ short }}",
+    "description": "{{ description }}",
     "icons": [
         {
             "src": "assets\/android-icon-36x36.png",
@@ -46,9 +46,9 @@
             "density": "4.0"
         }
     ],
-    "scope": "/",
-    "start_url": "/",
+    "scope": "{{ basePath }}",
+    "start_url": "{{ basePath }}",
     "display": "standalone",
-    "theme_color": "#aeff00",
-    "background_color": "#aeff00"
+    "theme_color": "{{ hexCode }}",
+    "background_color": "{{ hexCode }}"
 }
