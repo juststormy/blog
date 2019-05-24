@@ -175,6 +175,19 @@
             }
         },
         {
+            "id": "item-461bb54e-b21e-4750-b4c3-38f162e91f8c",
+            "indent": 0,
+            "location": "pages\/lighthouse-100\/index.html",
+            "order": 0,
+            "parent": null,
+            "title": "Hitting 100 on Lighthouse w. client side rendering",
+            "description": "",
+            "metadata": {
+                "created": 1558708798,
+                "updated": 1558708798
+            }
+        },
+        {
             "id": "item-cd716dd0-59b0-a24d-1ddb-2779369c52b2",
             "indent": 0,
             "location": "pages\/2018-innovation-submission\/index.html",
